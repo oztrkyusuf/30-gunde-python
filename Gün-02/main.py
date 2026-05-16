@@ -2,7 +2,7 @@ sayac=0
 print(sayac)
 sayac+=6
 print(sayac)
-sayac-=3
+sayac+=3
 print(sayac)
 
 
