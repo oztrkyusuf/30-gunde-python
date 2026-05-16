@@ -1,0 +1,5 @@
+print(float(3/2))
+print(3-10)
+print(3*(10+3*(2-1)-1)/4)
+print(3**2)
+print(10%2)
